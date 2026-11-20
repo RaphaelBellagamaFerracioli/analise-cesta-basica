@@ -1,0 +1,6 @@
+etapa,linhas
+linhas brutas,46264
+após remover duplicatas exatas,44521
+após remover cortes sem série,44507
+após remover estabelecimentos ALT (1 mês),44392
+após filtro de outliers (|log(ppk/mediana)| > ln 2),44047
